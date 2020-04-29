@@ -22,6 +22,11 @@ face-image33:
  face-image62:
 
 <image src ="dataset/anand_raj/62.png"> 
+  
+  
+ SO MORE FACE IMAGE I CANT SHOW IN README.TXT
+ DONE!!!!!!!
+  
    
   
   
